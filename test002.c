@@ -1,3 +1,3 @@
-#define _CRT_SECURE_NO_WARNINGS//½â¾ö²»°²È«º¯ÊýÎÊÌâ
+#define _CRT_SECURE_NO_WARNINGS//è§£å†³ä¸å®‰å…¨å‡½æ•°é—®é¢˜
 
 int val_g = 2023;
